@@ -1,0 +1,12 @@
+# compiled output
+/dist
+/tmp
+
+# dependencies
+/node_modules
+
+npm-debug.log
+npm-debug.log*
+.vscode
+.idea
+.DS_Store
